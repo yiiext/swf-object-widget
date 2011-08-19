@@ -6,6 +6,7 @@ More details about SWFObject see on http://code.google.com/p/swfobject/
 Usage
 -----
 in a view:
+
 ~~~
 [php]
 $this->beginWidget('ext.yiiext.widgets.swfobject.ESwfObjectWidget',array(
